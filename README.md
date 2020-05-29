@@ -2,4 +2,4 @@
 
 ## 1주차 과제 (2020.05.25)
 
-[인공지능 사례](인공지능 사례.ipynb)
+[인공지능 사례](https://github.com/inkkim/likeAI/blob/master/인공지능 사례.ipynb)
